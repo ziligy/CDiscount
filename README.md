@@ -1,2 +1,3 @@
-# CDiscount
-Swift Wrapper around discount implementation of John Gruber's Markdown
+### CDiscount
+
+Swift Wrapper around [discount](https://github.com/Orc/discount).
