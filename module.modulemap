@@ -1,5 +1,5 @@
 module CDiscount [system] {
-    header "/usr/local/include/mkdio.h"
+    header "cdiscount.h"
     link "markdown"
     export *
 }
